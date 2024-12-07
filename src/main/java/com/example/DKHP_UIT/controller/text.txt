@@ -1,0 +1,677 @@
+[
+  {
+    "building": "A",
+    "floor": 1,
+    "number": 1
+  },
+  {
+    "building": "A",
+    "floor": 1,
+    "number": 2
+  },
+  {
+    "building": "A",
+    "floor": 1,
+    "number": 3
+  },
+  {
+    "building": "A",
+    "floor": 1,
+    "number": 4
+  },
+  {
+    "building": "A",
+    "floor": 1,
+    "number": 5
+  },
+  {
+    "building": "A",
+    "floor": 1,
+    "number": 6
+  },
+  {
+    "building": "A",
+    "floor": 1,
+    "number": 7
+  },
+  {
+    "building": "A",
+    "floor": 1,
+    "number": 8
+  },
+  {
+    "building": "A",
+    "floor": 1,
+    "number": 9
+  },
+  {
+    "building": "A",
+    "floor": 2,
+    "number": 1
+  },
+  {
+    "building": "A",
+    "floor": 2,
+    "number": 2
+  },
+  {
+    "building": "A",
+    "floor": 2,
+    "number": 3
+  },
+  {
+    "building": "A",
+    "floor": 2,
+    "number": 4
+  },
+  {
+    "building": "A",
+    "floor": 2,
+    "number": 5
+  },
+  {
+    "building": "A",
+    "floor": 2,
+    "number": 6
+  },
+  {
+    "building": "A",
+    "floor": 2,
+    "number": 7
+  },
+  {
+    "building": "A",
+    "floor": 2,
+    "number": 8
+  },
+  {
+    "building": "A",
+    "floor": 2,
+    "number": 9
+  },
+  {
+    "building": "A",
+    "floor": 3,
+    "number": 1
+  },
+  {
+    "building": "A",
+    "floor": 3,
+    "number": 2
+  },
+  {
+    "building": "A",
+    "floor": 3,
+    "number": 3
+  },
+  {
+    "building": "A",
+    "floor": 3,
+    "number": 4
+  },
+  {
+    "building": "A",
+    "floor": 3,
+    "number": 5
+  },
+  {
+    "building": "A",
+    "floor": 3,
+    "number": 6
+  },
+  {
+    "building": "A",
+    "floor": 3,
+    "number": 7
+  },
+  {
+    "building": "A",
+    "floor": 3,
+    "number": 8
+  },
+  {
+    "building": "A",
+    "floor": 3,
+    "number": 9
+  },
+  {
+    "building": "A",
+    "floor": 4,
+    "number": 1
+  },
+  {
+    "building": "A",
+    "floor": 4,
+    "number": 2
+  },
+  {
+    "building": "A",
+    "floor": 4,
+    "number": 3
+  },
+  {
+    "building": "A",
+    "floor": 4,
+    "number": 4
+  },
+  {
+    "building": "A",
+    "floor": 4,
+    "number": 5
+  },
+  {
+    "building": "A",
+    "floor": 4,
+    "number": 6
+  },
+  {
+    "building": "A",
+    "floor": 4,
+    "number": 7
+  },
+  {
+    "building": "A",
+    "floor": 4,
+    "number": 8
+  },
+  {
+    "building": "A",
+    "floor": 4,
+    "number": 9
+  },
+  {
+    "building": "A",
+    "floor": 5,
+    "number": 1
+  },
+  {
+    "building": "A",
+    "floor": 5,
+    "number": 2
+  },
+  {
+    "building": "A",
+    "floor": 5,
+    "number": 3
+  },
+  {
+    "building": "A",
+    "floor": 5,
+    "number": 4
+  },
+  {
+    "building": "A",
+    "floor": 5,
+    "number": 5
+  },
+  {
+    "building": "A",
+    "floor": 5,
+    "number": 6
+  },
+  {
+    "building": "A",
+    "floor": 5,
+    "number": 7
+  },
+  {
+    "building": "A",
+    "floor": 5,
+    "number": 8
+  },
+  {
+    "building": "A",
+    "floor": 5,
+    "number": 9
+  },
+  {
+    "building": "B",
+    "floor": 1,
+    "number": 1
+  },
+  {
+    "building": "B",
+    "floor": 1,
+    "number": 2
+  },
+  {
+    "building": "B",
+    "floor": 1,
+    "number": 3
+  },
+  {
+    "building": "B",
+    "floor": 1,
+    "number": 4
+  },
+  {
+    "building": "B",
+    "floor": 1,
+    "number": 5
+  },
+  {
+    "building": "B",
+    "floor": 1,
+    "number": 6
+  },
+  {
+    "building": "B",
+    "floor": 1,
+    "number": 7
+  },
+  {
+    "building": "B",
+    "floor": 1,
+    "number": 8
+  },
+  {
+    "building": "B",
+    "floor": 1,
+    "number": 9
+  },
+  {
+    "building": "B",
+    "floor": 2,
+    "number": 1
+  },
+  {
+    "building": "B",
+    "floor": 2,
+    "number": 2
+  },
+  {
+    "building": "B",
+    "floor": 2,
+    "number": 3
+  },
+  {
+    "building": "B",
+    "floor": 2,
+    "number": 4
+  },
+  {
+    "building": "B",
+    "floor": 2,
+    "number": 5
+  },
+  {
+    "building": "B",
+    "floor": 2,
+    "number": 6
+  },
+  {
+    "building": "B",
+    "floor": 2,
+    "number": 7
+  },
+  {
+    "building": "B",
+    "floor": 2,
+    "number": 8
+  },
+  {
+    "building": "B",
+    "floor": 2,
+    "number": 9
+  },
+  {
+    "building": "B",
+    "floor": 3,
+    "number": 1
+  },
+  {
+    "building": "B",
+    "floor": 3,
+    "number": 2
+  },
+  {
+    "building": "B",
+    "floor": 3,
+    "number": 3
+  },
+  {
+    "building": "B",
+    "floor": 3,
+    "number": 4
+  },
+  {
+    "building": "B",
+    "floor": 3,
+    "number": 5
+  },
+  {
+    "building": "B",
+    "floor": 3,
+    "number": 6
+  },
+  {
+    "building": "B",
+    "floor": 3,
+    "number": 7
+  },
+  {
+    "building": "B",
+    "floor": 3,
+    "number": 8
+  },
+  {
+    "building": "B",
+    "floor": 3,
+    "number": 9
+  },
+  {
+    "building": "B",
+    "floor": 4,
+    "number": 1
+  },
+  {
+    "building": "B",
+    "floor": 4,
+    "number": 2
+  },
+  {
+    "building": "B",
+    "floor": 4,
+    "number": 3
+  },
+  {
+    "building": "B",
+    "floor": 4,
+    "number": 4
+  },
+  {
+    "building": "B",
+    "floor": 4,
+    "number": 5
+  },
+  {
+    "building": "B",
+    "floor": 4,
+    "number": 6
+  },
+  {
+    "building": "B",
+    "floor": 4,
+    "number": 7
+  },
+  {
+    "building": "B",
+    "floor": 4,
+    "number": 8
+  },
+  {
+    "building": "B",
+    "floor": 4,
+    "number": 9
+  },
+  {
+    "building": "B",
+    "floor": 5,
+    "number": 1
+  },
+  {
+    "building": "B",
+    "floor": 5,
+    "number": 2
+  },
+  {
+    "building": "B",
+    "floor": 5,
+    "number": 3
+  },
+  {
+    "building": "B",
+    "floor": 5,
+    "number": 4
+  },
+  {
+    "building": "B",
+    "floor": 5,
+    "number": 5
+  },
+  {
+    "building": "B",
+    "floor": 5,
+    "number": 6
+  },
+  {
+    "building": "B",
+    "floor": 5,
+    "number": 7
+  },
+  {
+    "building": "B",
+    "floor": 5,
+    "number": 8
+  },
+  {
+    "building": "B",
+    "floor": 5,
+    "number": 9
+  },
+  {
+    "building": "C",
+    "floor": 1,
+    "number": 1
+  },
+  {
+    "building": "C",
+    "floor": 1,
+    "number": 2
+  },
+  {
+    "building": "C",
+    "floor": 1,
+    "number": 3
+  },
+  {
+    "building": "C",
+    "floor": 1,
+    "number": 4
+  },
+  {
+    "building": "C",
+    "floor": 1,
+    "number": 5
+  },
+  {
+    "building": "C",
+    "floor": 1,
+    "number": 6
+  },
+  {
+    "building": "C",
+    "floor": 1,
+    "number": 7
+  },
+  {
+    "building": "C",
+    "floor": 1,
+    "number": 8
+  },
+  {
+    "building": "C",
+    "floor": 1,
+    "number": 9
+  },
+  {
+    "building": "C",
+    "floor": 2,
+    "number": 1
+  },
+  {
+    "building": "C",
+    "floor": 2,
+    "number": 2
+  },
+  {
+    "building": "C",
+    "floor": 2,
+    "number": 3
+  },
+  {
+    "building": "C",
+    "floor": 2,
+    "number": 4
+  },
+  {
+    "building": "C",
+    "floor": 2,
+    "number": 5
+  },
+  {
+    "building": "C",
+    "floor": 2,
+    "number": 6
+  },
+  {
+    "building": "C",
+    "floor": 2,
+    "number": 7
+  },
+  {
+    "building": "C",
+    "floor": 2,
+    "number": 8
+  },
+  {
+    "building": "C",
+    "floor": 2,
+    "number": 9
+  },
+  {
+    "building": "C",
+    "floor": 3,
+    "number": 1
+  },
+  {
+    "building": "C",
+    "floor": 3,
+    "number": 2
+  },
+  {
+    "building": "C",
+    "floor": 3,
+    "number": 3
+  },
+  {
+    "building": "C",
+    "floor": 3,
+    "number": 4
+  },
+  {
+    "building": "C",
+    "floor": 3,
+    "number": 5
+  },
+  {
+    "building": "C",
+    "floor": 3,
+    "number": 6
+  },
+  {
+    "building": "C",
+    "floor": 3,
+    "number": 7
+  },
+  {
+    "building": "C",
+    "floor": 3,
+    "number": 8
+  },
+  {
+    "building": "C",
+    "floor": 3,
+    "number": 9
+  },
+  {
+    "building": "C",
+    "floor": 4,
+    "number": 1
+  },
+  {
+    "building": "C",
+    "floor": 4,
+    "number": 2
+  },
+  {
+    "building": "C",
+    "floor": 4,
+    "number": 3
+  },
+  {
+    "building": "C",
+    "floor": 4,
+    "number": 4
+  },
+  {
+    "building": "C",
+    "floor": 4,
+    "number": 5
+  },
+  {
+    "building": "C",
+    "floor": 4,
+    "number": 6
+  },
+  {
+    "building": "C",
+    "floor": 4,
+    "number": 7
+  },
+  {
+    "building": "C",
+    "floor": 4,
+    "number": 8
+  },
+  {
+    "building": "C",
+    "floor": 4,
+    "number": 9
+  },
+  {
+    "building": "C",
+    "floor": 5,
+    "number": 1
+  },
+  {
+    "building": "C",
+    "floor": 5,
+    "number": 2
+  },
+  {
+    "building": "C",
+    "floor": 5,
+    "number": 3
+  },
+  {
+    "building": "C",
+    "floor": 5,
+    "number": 4
+  },
+  {
+    "building": "C",
+    "floor": 5,
+    "number": 5
+  },
+  {
+    "building": "C",
+    "floor": 5,
+    "number": 6
+  },
+  {
+    "building": "C",
+    "floor": 5,
+    "number": 7
+  },
+  {
+    "building": "C",
+    "floor": 5,
+    "number": 8
+  },
+  {
+    "building": "C",
+    "floor": 5,
+    "number": 9
+  }
+]
