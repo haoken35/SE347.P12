@@ -22,14 +22,4 @@ public class AdminController {
     public ResponseEntity createStaffAccount(@RequestBody RequestCreateStaff requestCreateStaff) {
         return this.adminService.createStaff(requestCreateStaff);
     }
-
-    @PostMapping("/addClassWithInPractice")
-    public ResponseEntity addClassWithInPractice(@RequestBody RequestAddClassWithPractice requestAddClassWithPractice) {
-        return this.classService.addClassWithInPractice(requestAddClassWithPractice);
-    }
-
-    @PostMapping("/deleteClass")
-    public ResponseEntity deleteClass(@RequestParam(name = "classId") String classId) {
-        return this.classService.deleteClass(classId);
-    }
 }
