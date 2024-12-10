@@ -71,8 +71,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!--lombok-->
-				<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
@@ -80,8 +78,6 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<!--security-->
-		<!--security-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-oauth2-authorization-server</artifactId>
