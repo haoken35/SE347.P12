@@ -35,4 +35,14 @@ public class ClassController {
     public ResponseEntity deleteClass(@RequestParam(name = "classId") String classId) {
         return this.classService.deleteClass(classId);
     }
+
+    @GetMapping("/getRelativeClass")
+    public ResponseEntity getRelativeClass(@RequestParam(name = "classId") String classId) {
+        return this.classService.getRelativeClass(classId);
+    }
+
+    @PostMapping("/editClass")
+    public ResponseEntity editClass(@RequestBody RequestEditClass requestEditClass) {
+        return this.classService.editClass(requestEditClass);
+    }
 }
