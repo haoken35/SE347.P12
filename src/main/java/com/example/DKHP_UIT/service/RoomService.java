@@ -14,6 +14,7 @@ import com.example.DKHP_UIT.request.RequestAddRoom;
 import com.example.DKHP_UIT.response.ResponseCode;
 import com.example.DKHP_UIT.support_service.SupportRoomService;
 
+/* */
 @Service
 public class RoomService {
     @Autowired
