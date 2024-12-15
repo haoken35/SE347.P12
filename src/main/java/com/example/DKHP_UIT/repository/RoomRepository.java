@@ -19,3 +19,4 @@ public interface RoomRepository extends JpaRepository<Room, String> {
             "order by building, floor, number ")
     public List<Room> getRoomFollowingByBuilding(String building);
 }
+/* */

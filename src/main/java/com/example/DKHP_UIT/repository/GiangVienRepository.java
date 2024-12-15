@@ -7,3 +7,4 @@ import com.example.DKHP_UIT.entities.GiangVien;
 public interface GiangVienRepository extends JpaRepository<GiangVien, String> {
 
 }
+/* */

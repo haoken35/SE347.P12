@@ -17,3 +17,4 @@ public class CTDTID implements Serializable {
     private Integer hocKy;
     private String maKhoa;
 }
+/* */

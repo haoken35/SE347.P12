@@ -28,3 +28,4 @@ public class OpenSubject {
     @EmbeddedId
     private OpenSubjectId id;
 }
+/* */

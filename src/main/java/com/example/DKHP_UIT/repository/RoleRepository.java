@@ -17,3 +17,4 @@ public interface RoleRepository extends JpaRepository<Role, Integer> {
             "where role_id = :role", nativeQuery = true)
     public List<String> getPermissionOf1Role(int role);
 }
+/* */

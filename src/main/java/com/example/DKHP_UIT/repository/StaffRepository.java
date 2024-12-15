@@ -9,3 +9,4 @@ public interface StaffRepository extends JpaRepository<Staff, String> {
     @Query("select staff from Staff staff where staff.email = :email")
     public Staff getStaffByEmail(String email);
 }
+/* */

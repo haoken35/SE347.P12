@@ -7,3 +7,4 @@ import com.example.DKHP_UIT.entities.Permission;
 public interface PermissionRepository extends JpaRepository<Permission, Integer> {
 
 }
+/* */

@@ -33,3 +33,4 @@ public class Room {
     @JoinColumn(name = "room_id")
     private Set<Class> listClasses = new HashSet<>();
 }
+/* */

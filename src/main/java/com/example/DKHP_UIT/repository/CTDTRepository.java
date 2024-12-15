@@ -35,4 +35,4 @@ public interface CTDTRepository extends JpaRepository<CTDT, CTDTID> {
     @Transactional
     @Query(value = "delete from ctdt_subject where subject_id = :subjectId", nativeQuery = true)
     public void deleteSubjectInRepository(String subjectId);
-}
+}/* */

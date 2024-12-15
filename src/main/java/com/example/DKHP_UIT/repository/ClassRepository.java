@@ -36,3 +36,4 @@ public interface ClassRepository extends JpaRepository<Class, String> {
         public int getClassFollowingBySubjectId(String subjectId);
 
 }
+/* */

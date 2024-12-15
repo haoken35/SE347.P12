@@ -63,3 +63,4 @@ public class Class {
     @ManyToMany(mappedBy = "classes")
     private Set<Student> students = new HashSet<>();
 }
+/* */

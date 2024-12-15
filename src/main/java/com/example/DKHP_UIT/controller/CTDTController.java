@@ -39,4 +39,9 @@ public class CTDTController {
     public ResponseEntity deleteSubject(@RequestBody String[] subjectIds) {
         return ctdtService.deleteSubject(subjectIds);
     }
+
+    @GetMapping("/getCTDT")
+    public ResponseEntity getCTDT(@RequestParam(name = "hocKy") int hocKy, HttpServletRequest httpServletRequest) {
+        return ctdtService.getCTDT(hocKy, httpServletRequest);
+    }
 }

@@ -12,3 +12,4 @@ public interface OpenSubjectRepository extends JpaRepository<OpenSubject, OpenSu
     @Query(value = "select subject_id from open_subject where hoc_ky = :hocKy and nam = :nam", nativeQuery = true)
     public List<String> getListOpenSubjectWithYearAndSemester(int hocKy, int nam);
 }
+/* */

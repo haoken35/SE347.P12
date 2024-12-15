@@ -35,3 +35,4 @@ public class Staff extends User {
     private Integer flagAdmin;
     private Integer flagParentAdmin;
 }
+/* */

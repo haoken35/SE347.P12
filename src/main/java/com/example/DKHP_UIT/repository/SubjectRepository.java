@@ -13,3 +13,4 @@ public interface SubjectRepository extends JpaRepository<Subject, String> {
     @Query("select subject from Subject subject where subject.maKhoa = :maKhoa")
     public List<Subject> getSubjectFollowingMaKhoa(String maKhoa);
 }
+/* */

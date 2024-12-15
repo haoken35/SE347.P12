@@ -53,3 +53,4 @@ public class Subject {
     @JoinColumn(name = "subject_id")
     private Set<Class> listClasses = new HashSet();
 }
+/* */

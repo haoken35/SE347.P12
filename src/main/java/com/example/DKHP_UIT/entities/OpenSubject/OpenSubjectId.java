@@ -30,3 +30,4 @@ public class OpenSubjectId implements Serializable {
     @NotNull
     private int nam; // 2024, when we display for the client, we will show nam - (nam + 1)
 }
+/* */

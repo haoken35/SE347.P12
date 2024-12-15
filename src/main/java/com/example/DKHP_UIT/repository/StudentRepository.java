@@ -21,4 +21,4 @@ public interface StudentRepository extends JpaRepository<Student, String> {
             "INNER JOIN student ON student_class.student_id = student.mssv where thu = :thu && mssv = :mssv && flagTH != 2", nativeQuery = true)
     public List<List<Integer>> getStudentScheduleIn1Day(int thu, String mssv);
 
-}
+}/* */
