@@ -28,4 +28,10 @@ public class CTDTController {
         System.out.println(listCtdtRequestAddSubjects.size());
         return this.ctdtService.addSubject(listCtdtRequestAddSubjects);
     }
+
+    @PostMapping("/createCTDT")
+    public ResponseEntity createCTDT(@RequestParam(name = "maKhoa") String maKhoa,
+            @RequestParam(name = "tenKhoa") String tenKhoa) {
+        return ctdtService.createCTDT(maKhoa, tenKhoa);
+    }
 }
