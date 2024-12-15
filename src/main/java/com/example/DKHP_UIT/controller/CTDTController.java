@@ -34,4 +34,9 @@ public class CTDTController {
             @RequestParam(name = "tenKhoa") String tenKhoa) {
         return ctdtService.createCTDT(maKhoa, tenKhoa);
     }
+
+    @PostMapping("/deleteSubject")
+    public ResponseEntity deleteSubject(@RequestBody String[] subjectIds) {
+        return ctdtService.deleteSubject(subjectIds);
+    }
 }
